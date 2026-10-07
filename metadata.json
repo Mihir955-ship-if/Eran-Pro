@@ -1,0 +1,8 @@
+{
+  "name": "Remix Eran Pro - Task \u0026 Rewards Earning Platform",
+  "description": "Complete micro-task earning platform featuring daily check-ins, lucky spin wheel, scratch cards, math quizzes, task offers, refer \u0026 earn, bKash/Nagad withdrawals, and an administrative control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
